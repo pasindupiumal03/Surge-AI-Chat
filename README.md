@@ -40,7 +40,7 @@ A modern, AI-powered trading chatbot interface built with Next.js, TypeScript, a
    
    Edit `.env.local` and add your OpenAI API key:
    ```
-   OPENAI_AI_API=your_openai_api_key_here
+   OPENAI_API_KEY=your_openai_api_key_here
    ```
 
 3. **Run the development server**
