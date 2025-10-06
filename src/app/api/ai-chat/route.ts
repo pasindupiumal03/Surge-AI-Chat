@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 
 export async function POST(req: NextRequest) {
   const { question } = await req.json();
-  const apiKey = process.env.OPENAI_AI_API;
+  const apiKey = process.env.OPENAI_API_KEY;
 
   if (!apiKey) {
     return NextResponse.json(
