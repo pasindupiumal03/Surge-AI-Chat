@@ -17,8 +17,5 @@
       "dest": "/$1"
     }
   ],
-  "env": {
-    "OPENAI_API_KEY": "@openai-api-key"
-  },
   "regions": ["iad1"]
 }
