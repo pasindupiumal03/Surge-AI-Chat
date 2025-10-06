@@ -80,7 +80,7 @@ export default function NavBar() {
               <span className="text-[12px] text-white/60">SURGE:</span>
               <span className="relative flex w-[120px] items-center justify-center">
                 <span className="rounded-lg bg-gradient-to-r from-[#00ffff]/20 to-[#00ffff]/10 border border-[#00ffff]/30 px-3 py-1.5 text-center text-[11px] font-medium text-[#00ffff] backdrop-blur-sm">
-                    Coming Soon
+                    Try It Now
                 </span>
               </span>
             </div>
@@ -120,7 +120,7 @@ export default function NavBar() {
               <span className="text-white/60">SURGE</span>
             </div>
             <div className="mt-2 rounded-lg bg-gradient-to-r from-[#00ffff]/20 to-[#00ffff]/10 border border-[#00ffff]/30 px-3 py-1.5 text-center text-[11px] font-medium text-[#00ffff] backdrop-blur-sm">
-              Coming Soon
+              Try It Now
             </div>
           </div>
         </div>
