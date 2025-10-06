@@ -20,10 +20,5 @@
   "env": {
     "OPENAI_API_KEY": "@openai-api-key"
   },
-  "regions": ["iad1"],
-  "functions": {
-    "src/app/api/*/route.ts": {
-      "maxDuration": 30
-    }
-  }
+  "regions": ["iad1"]
 }
